@@ -1,6 +1,6 @@
 # MytheresaCypress
 
-Automated Test case 1 and test case 2 using Cypress framework.Page Object Model is used to define the page elements. The test data are declared inside "fixtures/input.json file"
+Automated Test case 1 and test case 2 using Cypress framework.Page Object Model is used to define the page elements. The test data are declared inside "fixtures/input.json file". 
 
 # PreRequisite
 
