@@ -22,3 +22,5 @@ Suite can be run in multiple environment.Declared script to run in different env
 # Snapshot of result
 
 ![image](https://user-images.githubusercontent.com/12660360/174496329-f6d69583-5f31-4466-8d7a-f78e6a38059f.png)
+![image](https://user-images.githubusercontent.com/12660360/174496940-cc09bfe6-f91b-4277-b2a2-c0037c6c0ee4.png)
+
