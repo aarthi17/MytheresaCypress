@@ -11,7 +11,8 @@ Automated Test case 1 and test case 2 using Cypress framework.Page Object Model 
 
 Suite can be run in multiple environment.Declared script to run in different environment based on the 'ENV' value passed in package.json. Run using *"npm run cy:run:prod"* to run it in production endpoint.Please refer to the below script to run in different environment.
 
-![image](https://user-images.githubusercontent.com/12660360/174496345-b4975ce7-2df5-4328-ba0b-a650bafb2683.png)
+![image](https://user-images.githubusercontent.com/12660360/174496451-dc5ba5c0-5896-491b-8800-37cbb8ff6ae4.png)
+
 
 # File Structure
 
