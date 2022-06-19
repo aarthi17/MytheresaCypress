@@ -1,0 +1,17 @@
+{
+  "name": "mytheresacypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run:prod":"node_modules\\.bin\\cypress run --env ENV=\"production\"",
+    "cy:run:stg":"node_modules\\.bin\\cypress run --env ENV=\"staging\"",
+    "cy:run:test":"node_modules\\.bin\\cypress run --env ENV=\"test\"",
+    "cy:run:loc":"node_modules\\.bin\\cypress run --env ENV=\"local\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
